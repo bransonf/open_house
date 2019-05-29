@@ -32,7 +32,7 @@ These are various datasets pertaining to housing in the United States
 
 [NAR - Data](https://www.nar.realtor/research-and-statistics/housing-statistics)
 
-
+[Living Wage Data](http://livingwage.mit.edu/)
 
 ## Paid Datasets
 [CoreLogic](https://www.corelogic.com/)
