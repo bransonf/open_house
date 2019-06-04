@@ -34,6 +34,8 @@ These are various datasets pertaining to housing in the United States
 
 [Living Wage Data](http://livingwage.mit.edu/)
 
+[Freddie Mac](http://www.freddiemac.com/research/datasets/index.page)
+
 ## Paid Datasets
 [CoreLogic](https://www.corelogic.com/)
 
