@@ -4,6 +4,10 @@ These are various datasets pertaining to housing in the United States
 
 [Housing and Urban Development](https://www.huduser.gov/portal/pdrdatas_landing.html#dataset-title)
 
+[HUD - Public Sector Sources](https://www.huduser.gov/portal/periodicals/cityscpe/vol16num3/ch6.pdf)
+
+[HUD - ArcGIS Open Data](http://hudgis-hud.opendata.arcgis.com/)
+
 [Census Housing Data](https://www.census.gov/topics/housing/about.html)
 
 [Zillow - Public](https://www.zillow.com/research/data/)
@@ -35,6 +39,8 @@ These are various datasets pertaining to housing in the United States
 [Living Wage Data](http://livingwage.mit.edu/)
 
 [Freddie Mac](http://www.freddiemac.com/research/datasets/index.page)
+
+[Fannie Mae - Single Family Loan Performance](http://www.fanniemae.com/portal/funding-the-market/data/loan-performance-data.html)
 
 [Quandl - Housing Financials](https://www.quandl.com/search?query=housing)
 
